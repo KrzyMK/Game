@@ -75,7 +75,7 @@ namespace Unity.FPS.Game
 ```
 
 ## Setup
-To run this game on your  computer, you need to install the Unity. 
+To run this game on your computer, you need to install the Unity. 
 You can download this from  [here](https://unity.com/).
 Download the project and run it.
 
