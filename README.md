@@ -32,11 +32,14 @@ Project is created with:
 Example screenshots showing game:
 ![Screenshot_4](https://user-images.githubusercontent.com/84870985/119891166-fc7c2400-bf38-11eb-9f19-5fec41bdb067.png)
 
+
 Fight with boss:
 ![Screenshot_6](https://user-images.githubusercontent.com/84870985/119890978-c179f080-bf38-11eb-9a37-190c50258288.png)
 
+
 Screen when you died:
 ![Screenshot_5](https://user-images.githubusercontent.com/84870985/119890998-c76fd180-bf38-11eb-8730-5c35236bd48d.png)
+
 
 
 ## Code Examples
